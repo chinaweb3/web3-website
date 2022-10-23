@@ -1,29 +1,26 @@
 ---
 layout: home
-
-title: web3中文社区
-titleTemplate: Vite & Vue Powered Static Site Generator
-
+title: Web3中文社区
+titleTemplate: false
 head:
   - - meta
     - name: keywords
-      content: web3,元宇宙,区块链,Web3
-
+      content: web3 Web3.0 元宇宙 区块链 NFT web2 DAO 比特币 ETH
 hero:
-  name: web3中文社区
+  name: Web3中文社区
   text: 做下一代互联网先行者
   tagline: 我们是下一代互联网的先行者，是新大陆的发现者，是新世界的构建者。
   actions:
     - theme: brand
-      text: Get Started
+      text: 现在开始
       link: /article/1
     - theme: alt
-      text: View on GitHub
+      text: 查看GitHub
       link: https://github.com/chinaweb3/web3-website
 
 features:
   - title: Web3
-    details: “Web3.0”是对现在的互联网的底层协议“万维网”的一个衍生。Web3.0则是人们对下一代互联网的期待，它意味着机器能读懂任何信息（也就是语义网），网站可以根据信息提供智能删选和提供更好的信息（人工智能），互联网无处不在（物联网），更重要的是，互联网的数据的所有权将是去中心化的。
+    details: Web3.0是对现在的互联网的底层协议万维网的一个衍生。Web3.0则是人们对下一代互联网的期待，它意味着机器能读懂任何信息（也就是语义网），网站可以根据信息提供智能删选和提供更好的信息（人工智能），互联网无处不在（物联网），更重要的是，互联网的数据的所有权将是去中心化的。
   - title: 元宇宙
     details: 元宇宙是一个聚焦于社交连结的3D虚拟世界之网络。元宇宙主要探讨一个持久化和去中心化的线上三维虚拟环境。此虚拟环境将可以通过虚拟现实眼镜、扩增实境眼镜、手机、个人电脑和电子游戏机进入人造的虚拟世界。
   - title: 区块链
